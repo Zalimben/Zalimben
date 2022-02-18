@@ -6,7 +6,7 @@ on:
       - main
   schedule:
     # 0 */24 1 1-12 *
-    - cron: '*/5 * * * *'
+    - cron: '0 */24 1 1-12 *'
 
 jobs:
   build:
@@ -32,4 +32,4 @@ jobs:
         uses: mikeal/publish-to-github-action@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          BRANCH_NAME: main
+          BRANCH_NAME: 'main'
