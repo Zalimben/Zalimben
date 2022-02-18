@@ -1,6 +1,6 @@
 ### Hi there 👋!
 
-My name is Saul, Software Engineer and Professor from <img class="circle" src = "images/py.svg" alt="Paraguay"/>, <b>Paraguay<b>.
+My name is Saul, Software Engineer and Professor from <img class="circle" src = "static/images/py.svg" alt="Paraguay"/>, <b>Paraguay<b>.
 
 Experienced in creating high-quality code considering the best coding practices, architectural patterns, and performance. Experienced in leading small development teams using agile methodologies.
 
