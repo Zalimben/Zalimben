@@ -1,0 +1,22 @@
+{
+  "name": "zalimben",
+  "version": "1.0.0",
+  "description": "🔭 I’m currently working on eBook on Data Structures and Algorithms!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zalimben/Zalimben.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zalimben/Zalimben/issues"
+  },
+  "homepage": "https://github.com/Zalimben/Zalimben#readme",
+  "dependencies": {
+    "mustache": "^4.2.0"
+  }
+}
