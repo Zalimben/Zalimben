@@ -1,6 +1,7 @@
 name: README build
 
 on:
+  workflow_dispatch:
   push:
     branches:
       - main
@@ -8,7 +9,17 @@ on:
     # 0 */24 1 1-12 *
     - cron: '0 */24 1 1-12 *'
 
+
+
 jobs:
+ devcard:
+    runs-on: ubuntu-latest
+    steps:
+      - name: devcard
+        uses: dailydotdev/action-devcard@2.0.4
+        with:
+          devcard_id: ${{ secrets.DEVCARD_ID }}
+  
   build:
     runs-on: ubuntu-latest
 
