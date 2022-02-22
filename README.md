@@ -11,6 +11,7 @@ Interested in devising a better problem-solving method for challenging tasks, an
 <h3> Work </h3>
 🔭 I’m currently working on eBook on Data Structures and Algorithms!
 
+<a href="https://app.daily.dev/szalimben"><img src="https://api.daily.dev/devcards/f759dbc1fd9a42c39d9e28ef42433a9c.png?r=28l" width="400" alt="Saúl Zalimben's Dev Card"/></a>
 
 ------------
 <p align="center">This <i>README</i> file is auto-generated</b>!
