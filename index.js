@@ -8,7 +8,7 @@ const MUSTACHE_MAIN_DIR = './main.mustache';
   * Notice the "name" and "date" property.
 */
 let DATA = {
-  name: 'Saul',
+  name: 'Saúl',
   refresh_date: new Date().toLocaleDateString('en-GB', {
     weekday: 'long',
     month: 'short',
