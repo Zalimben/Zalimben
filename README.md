@@ -6,18 +6,20 @@ Experienced in creating high-quality code considering the best coding practices,
 Experienced in leading small development teams using agile methodologies.
 Interested in devising a better problem-solving method for challenging tasks, and learning new technologies and tools if the need arises.
 
+<h3 align="left"> eBooks </h3>
+<h4>Spanish</h4>
+<ul>
+    <li>
+        :page_facing_up: <a href="https://leanpub.com/introduccion-estructura-de-datos" target="_blank"> 
+        Una pequeña introducción a Estructura de Datos
+        </a>
+    </li>
+</ul>
+
 <h3 align="left"> Articles </h3>
 <h4>Spanish</h4>
 <ul>
     <li>
-<<<<<<< HEAD
-        :page_facing_up: <a href="https://www.researchgate.net/publication/359743419_Una_pequena_introduccion_a_Estructura_de_Datos" target="_blank"> 
-        Una pequeña introducción a Estructura de Datos
-        </a>
-    </li>
-    <li>
-=======
->>>>>>> Add eBook link
         :page_facing_up: <a href="https://www.researchgate.net/publication/347993246_Una_pequena_guia_de_Scrum" target="_blank"> 
         Una pequeña guía de Scrum
         </a>
@@ -35,18 +37,7 @@ Interested in devising a better problem-solving method for challenging tasks, an
     </li>
 </ul>
 
-<<<<<<< HEAD
-=======
-<h3 align="left"> eBooks </h3>
-<h4>Spanish</h4>
-<ul>
-    <li>
-        :page_facing_up: <a href="https://leanpub.com/introduccion-estructura-de-datos" target="_blank"> 
-        Una pequeña introducción a Estructura de Datos
-        </a>
-    </li>
-</ul>
->>>>>>> Add eBook link
+
 <!-- 🔭 I’m currently working on eBook on Data Structures and Algorithms! -->
 
 <h3 align="left">Connect with me:</h3>
@@ -80,11 +71,7 @@ Interested in devising a better problem-solving method for challenging tasks, an
 ------------
 
 <p align="center">This <i>README</i> file is auto-generated</b>!
-<<<<<<< HEAD
-<br>Last refresh: Saturday, 16 Apr<br>
-=======
 <br>Last refresh: Friday, 22 Apr<br>
->>>>>>> Add eBook link
 
 <p align="center">
     <img src="https://github.com/Zalimben/Zalimben/workflows/README%20build/badge.svg" /> 
