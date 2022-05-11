@@ -10,9 +10,16 @@ Interested in devising a better problem-solving method for challenging tasks, an
 <h4>Spanish</h4>
 <ul>
     <li>
+<<<<<<< HEAD
         :page_facing_up: <a href="https://leanpub.com/introduccion-estructura-de-datos" target="_blank"> 
         Una pequeña introducción a Estructura de Datos
         </a>
+=======
+        <iframe width='160' height='400' src='https://leanpub.com/introduccion-estructura-de-datos/embed' frameborder='0' allowtransparency='true'></iframe>
+    </li>
+    <li>
+        <iframe width='160' height='400' src='https://leanpub.com/una-pequena-guia-de-scrum/embed' frameborder='0' allowtransparency='true'></iframe>
+>>>>>>> add-ebook-scrum
     </li>
 </ul>
 
@@ -71,7 +78,11 @@ Interested in devising a better problem-solving method for challenging tasks, an
 ------------
 
 <p align="center">This <i>README</i> file is auto-generated</b>!
+<<<<<<< HEAD
 <br>Last refresh: Saturday, 7 May<br>
+=======
+<br>Last refresh: Wednesday, 11 May<br>
+>>>>>>> add-ebook-scrum
 
 <p align="center">
     <img src="https://github.com/Zalimben/Zalimben/workflows/README%20build/badge.svg" /> 
