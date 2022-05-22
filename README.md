@@ -77,7 +77,7 @@ Interested in devising a better problem-solving method for challenging tasks, an
 ------------
 
 <p align="center">This <i>README</i> file is auto-generated</b>!
-<br>Last refresh: Saturday, 14 May<br>
+<br>Last refresh: Saturday, 21 May<br>
 
 <p align="center">
     <img src="https://github.com/Zalimben/Zalimben/workflows/README%20build/badge.svg" /> 
