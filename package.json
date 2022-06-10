@@ -18,5 +18,6 @@
   "homepage": "https://github.com/Zalimben/Zalimben#readme",
   "dependencies": {
     "mustache": "^4.2.0"
-  }
+  },
+  "devDependencies": {}
 }
