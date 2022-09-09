@@ -4,11 +4,13 @@
 
 ------------
 
-My name is Saúl, Software Engineer from <img src="https://cdn-icons-png.flaticon.com/512/197/197376.png" width="13" alt="Paraguay"/> <b>Paraguay</b>.
+My name is Saúl Zalimben, Software Engineer from <img src="https://cdn-icons-png.flaticon.com/512/197/197376.png" width="13" alt="Paraguay"/> <b>Paraguay</b>.
 
-Experienced in creating high-quality code considering the best coding practices, architectural patterns, and performance. 
-Experienced in leading small development teams using agile methodologies.
-Interested in devising a better problem-solving method for challenging tasks, and learning new technologies and tools if the need arises.
+Computer science professional with over seven years of experience.
+I am experienced in creating high‐quality code considering the best coding practices, architectural patterns, and performance.
+Interested in devising a better problem‐solving method for challenging tasks, and learning new technologies and tools.
+
+Love teaching, writing and share what I know… and coffe, I love coffe. :coffee:
 
 <h3 align="left"> eBooks </h3>
 <h4>Spanish</h4>
@@ -116,7 +118,7 @@ I feel comfortable working with :sunglasses:
 ------------
 
 <p align="center">This <i>README</i> file is auto-generated</b>!
-<br>Last refresh: Saturday, 3 Sep<br>
+<br>Last refresh: Friday, 9 Sep<br>
 
 <p align="center">
     <img src="https://github.com/Zalimben/Zalimben/workflows/README%20build/badge.svg" /> 
