@@ -10,7 +10,7 @@ Computer science professional with over seven years of experience.
 I am experienced in creating high‐quality code considering the best coding practices, architectural patterns, and performance.
 Interested in devising a better problem‐solving method for challenging tasks, and learning new technologies and tools.
 
-Love teaching, writing and share what I know… and coffe, I love coffe. :coffee:
+Love teaching, writing, and sharing what I know… and coffee, I love coffee. :coffee:
 
 <h3 align="left"> eBooks </h3>
 <h4>Spanish</h4>
@@ -112,6 +112,15 @@ I feel comfortable working with :sunglasses:
 <div>
     <a href="https://app.daily.dev/szalimben">
         <img src="https://github.com/zalimben/zalimben/blob/main/devcard.svg" width="250" alt="Zalimben's Dev Card"/>
+    </a>
+</div>
+
+------------
+
+<h3 align="left">roadmap.sh</h3>
+<div>
+    <a href="https://roadmap.sh">
+        <img src="https://api.roadmap.sh/v1-badge/tall/64b98c4f8a29ad56fa9c596f?variant=dark" alt="roadmap.sh"/>
     </a>
 </div>
 
