@@ -10,7 +10,7 @@ Computer science professional with over seven years of experience.
 I am experienced in creating high‐quality code considering the best coding practices, architectural patterns, and performance.
 Interested in devising a better problem‐solving method for challenging tasks, and learning new technologies and tools.
 
-Love teaching, writing, and sharing what I know… and coffee, I love coffee. :coffee:
+Love teaching, writing and share what I know… and coffe, I love coffe. :coffee:
 
 <h3 align="left"> eBooks </h3>
 <h4>Spanish</h4>
@@ -117,17 +117,8 @@ I feel comfortable working with :sunglasses:
 
 ------------
 
-<h3 align="left">roadmap.sh</h3>
-<div>
-    <a href="https://roadmap.sh">
-        <img src="https://api.roadmap.sh/v1-badge/tall/64b98c4f8a29ad56fa9c596f?variant=dark" alt="roadmap.sh"/>
-    </a>
-</div>
-
-------------
-
 <p align="center">This <i>README</i> file is auto-generated</b>!
-<br>Last refresh: Saturday, 15 Jul<br>
+<br>Last refresh: Friday, 21 Jul<br>
 
 <p align="center">
     <img src="https://github.com/Zalimben/Zalimben/workflows/README%20build/badge.svg" /> 
