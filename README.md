@@ -117,10 +117,17 @@ I feel comfortable working with :sunglasses:
 
 ------------
 
+<h3 align="left">roadmap.sh</h3>
+
+<div>
+    <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/64b98c4f8a29ad56fa9c596f?variant=dark" alt="roadmap.sh"/></a>
+</div>
+
+------------
+
 <p align="center">This <i>README</i> file is auto-generated</b>!
-<br>Last refresh: Saturday, 22 Jul<br>
+<br>Last refresh: Monday, 24 Jul<br>
 
 <p align="center">
     <img src="https://github.com/Zalimben/Zalimben/workflows/README%20build/badge.svg" /> 
 </p>
-
