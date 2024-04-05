@@ -6,20 +6,23 @@
 
 My name is Saúl Zalimben, Software Engineer from <img src="https://cdn-icons-png.flaticon.com/512/197/197376.png" width="13" alt="Paraguay"/> <b>Paraguay</b>.
 
-Computer science professional with over seven years of experience.
 I am experienced in creating high‐quality code considering the best coding practices, architectural patterns, and performance.
 Interested in devising a better problem‐solving method for challenging tasks, and learning new technologies and tools.
 
 Love teaching, writing and share what I know… and coffe, I love coffe. :coffee:
 
 <h3 align="left"> eBooks </h3>
-<h4>Spanish</h4>
 <ul>
     <li>
-        :page_facing_up: <a href="https://leanpub.com/introduccion-estructura-de-datos" target="_blank"> 
-        Una pequeña introducción a Estructura de Datos
+        :page_facing_up: <a href="https://leanpub.com/an-introduction-to-software-architecture" target="_blank"> 
+        An Introduction to Software Architecture
         </a>
-    </li>    
+    </li>
+    <li>
+        :page_facing_up: <a href="https://leanpub.com/introduccion-estructura-de-datos-v2" target="_blank"> 
+        Introducción a Estructura de Datos
+        </a>
+    </li>
     <li>
         :page_facing_up: <a href="https://leanpub.com/una-pequena-guia-de-scrum" 
         target="_blank"> 
@@ -83,8 +86,6 @@ I feel comfortable working with :sunglasses:
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 </p>
 
-<!-- 🔭 I’m currently working on eBook on Data Structures and Algorithms! -->
-
 <h3 align="left">Connect with me</h3>
 <p align="left">
     <a href="https://dev.to/szalimben" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="szalimben" height="30" width="40" />
@@ -126,7 +127,7 @@ I feel comfortable working with :sunglasses:
 ------------
 
 <p align="center">This <i>README</i> file is auto-generated</b>!
-<br>Last refresh: Saturday, 30 Mar<br>
+<br>Last refresh: Thursday, 4 Apr<br>
 
 <p align="center">
     <img src="https://github.com/Zalimben/Zalimben/workflows/README%20build/badge.svg" /> 
