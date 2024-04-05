@@ -16,7 +16,7 @@ jobs:
 
     steps:
       - name: devcard
-        uses: dailydotdev/action-devcard@2.0.4
+        uses: dailydotdev/action-devcard@3.0.0
         with:
           devcard_id: ${{ secrets.DEVCARD_ID }}
       - name: Checkout current repository to main branch
