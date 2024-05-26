@@ -127,7 +127,7 @@ I feel comfortable working with :sunglasses:
 ------------
 
 <p align="center">This <i>README</i> file is auto-generated</b>!
-<br>Last refresh: Saturday 18 May<br>
+<br>Last refresh: Saturday 25 May<br>
 
 <p align="center">
     <img src="https://github.com/Zalimben/Zalimben/workflows/README%20build/badge.svg" /> 
