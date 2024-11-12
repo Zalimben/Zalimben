@@ -111,9 +111,7 @@ I feel comfortable working with :sunglasses:
 <h3 align="left">daily.dev</h3>
 
 <div>
-    <a href="https://app.daily.dev/szalimben">
-        <img src="https://github.com/zalimben/zalimben/blob/main/devcard.svg" width="250" alt="Zalimben's Dev Card"/>
-    </a>
+    <a href="https://app.daily.dev/szalimben"><img src="https://api.daily.dev/devcards/v2/JY01VtipuaBHOExNDaLBU.png?type=wide&r=bpe" width="652" alt="Saúl Zalimben's Dev Card"/></a>
 </div>
 
 ------------
